@@ -117,6 +117,7 @@ static const char *notaries_STAKED[NUM_STAKED_ERAS][64][2] =
         {"kmdkrazy", "02f7597468703c1c5c8465dd6d43acaae697df9df30bed21494d193412a1ea193e" }, // RWHGbrLSP89fTzNVF9U9xiekDYJqcibTca
         {"alrighttest", "02e9dfe248f453b499315a90375e58a1c9ad79f5f3932ecb2205399a0f262d65fc" }, // RBevSstS8JtDXMEFNcJws4QTYN4PcE2VL5
         {"alrighttest1", "03527c7ecd6a8c5db6d685a64e6e18c1edb49e2f057a434f56c3f1253a26e9c6a2" }, // RBw2jNU3dnGk86ZLqPMadJwRwg3NU8eC6s
+        {"CMaurice", "026c6d094523e810641b89f2d7f0ddd8f0b59d97c32e1fa97f0e3e0ac119c26ae4" }, // RSjayeSuYUE1E22rBjnqoexobaRjbAZ2Yb
     }
 };
 
